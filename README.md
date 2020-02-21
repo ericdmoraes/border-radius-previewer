@@ -1,3 +1,7 @@
+Esse app tem como inuito usar os conhecimentos em React Hooks e Styled components
+
+## Outras informações abaixo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
